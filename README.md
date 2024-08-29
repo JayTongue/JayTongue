@@ -11,3 +11,4 @@ I'm interested in:
   * Microcontrollers
 
 Linkedin: https://www.linkedin.com/in/thejustintung/
+email: jaytongue@gmail.com
